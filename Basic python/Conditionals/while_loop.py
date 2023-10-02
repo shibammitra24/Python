@@ -18,3 +18,4 @@ while k<5:
     if k==3:
         continue
     print(k)
+    
