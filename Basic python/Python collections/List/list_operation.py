@@ -1,6 +1,7 @@
 lst1 = [15, 25, 35, 45, 55]
 lst2 = [100, 150]
 
+## Adding elements:
 # append
 lst1.append(60)
 print(lst1)
@@ -13,6 +14,7 @@ print(lst1)
 lst1.extend(lst2)
 print(lst1)
 
+## Removing elements:
 # remove
 lst1.remove(35)
 print(lst1)
