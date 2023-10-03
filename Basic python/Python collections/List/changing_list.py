@@ -1,4 +1,5 @@
 # we can change an element in a list
+
 lst = [15, 20, 25, 30, 35]
 print(lst)
 lst[1] = 40 # change using index
