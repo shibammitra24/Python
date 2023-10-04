@@ -16,3 +16,10 @@ print(type(tup))
 # check the length of tuple
 print(len(colors))
 print(len(tup))
+
+# accessing items in a tuple:
+items = ("bag", "bottle", "car_keys", "phone")
+print(items)
+print(items[0]) # positive indexing
+print(items[-2]) # negative indexing
+print(items[1:4]) # range indexing
