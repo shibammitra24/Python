@@ -23,3 +23,8 @@ print(items)
 print(items[0]) # positive indexing
 print(items[-2]) # negative indexing
 print(items[1:4]) # range indexing
+print(items[-2:]) # negative range indexing
+
+# check if an item is in a tuple
+if "bottle" in items:
+    print("IS PRESENT")
