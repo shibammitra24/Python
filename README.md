@@ -1,5 +1,5 @@
 
-![Logo](https://miro.medium.com/v2/resize:fit:1400/0*l__g9e4upTkZv6W9.gif)
+![Logo](https://assets.digitalocean.com/articles/how-to-code-in-python-banner/how-to-code-in-python.png)
 
 
 # Welcome 😍
