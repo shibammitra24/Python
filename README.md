@@ -25,13 +25,12 @@ Python is a versatile, high-level programming language known for its simplicity 
 
 ## Download and Install Python 📥
 
-- Download Python
+- Download & install Python
 
 ```bash
   https://www.python.org/downloads/
 ```
 ![Download](https://www.guru99.com/images/Pythonnew/Python2.1.png)
-- Install Python
 ![Install](https://bongobinary.com/media/custom_post_file/uploads/2019/11/27/install_python_3_8_on_windows_.png)
 - Check Python installation
 ```bash
